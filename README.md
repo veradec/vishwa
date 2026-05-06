@@ -2,3 +2,4 @@
 <!-- feat: add world name generator stub [2026-05-04] -->
 <!-- fix: index.js missing module export [2026-05-04] -->
 <!-- chore: update package.json main entry point [2026-05-04] -->
+<!-- feat: add terrain type enum to generators [2026-05-06] -->
