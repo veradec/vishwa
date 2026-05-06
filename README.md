@@ -3,3 +3,4 @@
 <!-- fix: index.js missing module export [2026-05-04] -->
 <!-- chore: update package.json main entry point [2026-05-04] -->
 <!-- feat: add terrain type enum to generators [2026-05-06] -->
+<!-- fix: helpers formatName function edge case with empty string [2026-05-06] -->
