@@ -8,3 +8,4 @@
 <!-- feat: add biome assignment to world generator [2026-05-10] -->
 <!-- fix: seed not being applied consistently in generator [2026-05-10] -->
 <!-- refactor: move helper utils into helpers/index.js [2026-05-10] -->
+<!-- chore: add lodash as utility dependency [2026-05-10] -->
