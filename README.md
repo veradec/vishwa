@@ -7,3 +7,4 @@
 <!-- refactor: split generator logic into smaller functions [2026-05-08] -->
 <!-- feat: add biome assignment to world generator [2026-05-10] -->
 <!-- fix: seed not being applied consistently in generator [2026-05-10] -->
+<!-- refactor: move helper utils into helpers/index.js [2026-05-10] -->
