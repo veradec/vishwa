@@ -10,3 +10,4 @@
 <!-- refactor: move helper utils into helpers/index.js [2026-05-10] -->
 <!-- chore: add lodash as utility dependency [2026-05-10] -->
 <!-- feat: implement basic civilization name generator [2026-05-13] -->
+<!-- fix: civilization generator returning duplicate names [2026-05-13] -->
