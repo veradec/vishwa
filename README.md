@@ -12,3 +12,4 @@
 <!-- feat: implement basic civilization name generator [2026-05-13] -->
 <!-- fix: civilization generator returning duplicate names [2026-05-13] -->
 <!-- docs: add usage examples to README [2026-05-15] -->
+<!-- feat: add river and mountain placement logic [2026-05-17] -->
