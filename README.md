@@ -13,3 +13,4 @@
 <!-- fix: civilization generator returning duplicate names [2026-05-13] -->
 <!-- docs: add usage examples to README [2026-05-15] -->
 <!-- feat: add river and mountain placement logic [2026-05-17] -->
+<!-- fix: out-of-bounds check in terrain grid generation [2026-05-17] -->
