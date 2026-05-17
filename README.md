@@ -14,3 +14,4 @@
 <!-- docs: add usage examples to README [2026-05-15] -->
 <!-- feat: add river and mountain placement logic [2026-05-17] -->
 <!-- fix: out-of-bounds check in terrain grid generation [2026-05-17] -->
+<!-- refactor: use const over let where values dont change [2026-05-17] -->
