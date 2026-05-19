@@ -16,3 +16,4 @@
 <!-- fix: out-of-bounds check in terrain grid generation [2026-05-17] -->
 <!-- refactor: use const over let where values dont change [2026-05-17] -->
 <!-- chore: add eslint config for consistent code style [2026-05-19] -->
+<!-- fix: eslint warnings resolved across all files [2026-05-19] -->
