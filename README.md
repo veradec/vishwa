@@ -17,3 +17,4 @@
 <!-- refactor: use const over let where values dont change [2026-05-17] -->
 <!-- chore: add eslint config for consistent code style [2026-05-19] -->
 <!-- fix: eslint warnings resolved across all files [2026-05-19] -->
+<!-- feat: add deity name generator with pantheon support [2026-05-21] -->
