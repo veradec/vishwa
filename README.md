@@ -20,3 +20,4 @@
 <!-- feat: add deity name generator with pantheon support [2026-05-21] -->
 <!-- feat: add language seed to name generators [2026-05-23] -->
 <!-- fix: language seed not propagating to sub-generators [2026-05-23] -->
+<!-- refactor: extract seed handling into helpers/seed.js [2026-05-23] -->
