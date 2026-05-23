@@ -18,3 +18,4 @@
 <!-- chore: add eslint config for consistent code style [2026-05-19] -->
 <!-- fix: eslint warnings resolved across all files [2026-05-19] -->
 <!-- feat: add deity name generator with pantheon support [2026-05-21] -->
+<!-- feat: add language seed to name generators [2026-05-23] -->
