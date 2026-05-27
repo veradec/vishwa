@@ -21,3 +21,4 @@
 <!-- feat: add language seed to name generators [2026-05-23] -->
 <!-- fix: language seed not propagating to sub-generators [2026-05-23] -->
 <!-- refactor: extract seed handling into helpers/seed.js [2026-05-23] -->
+<!-- chore: add Dockerfile expose port and healthcheck [2026-05-27] -->
