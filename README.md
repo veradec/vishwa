@@ -23,3 +23,4 @@
 <!-- refactor: extract seed handling into helpers/seed.js [2026-05-23] -->
 <!-- chore: add Dockerfile expose port and healthcheck [2026-05-27] -->
 <!-- fix: docker build failing due to missing lockfile copy [2026-05-27] -->
+<!-- chore: final may cleanup and dead code removal [2026-05-30] -->
